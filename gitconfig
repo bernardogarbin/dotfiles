@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bernardo.garbin@gmail.com
+	name = bernardogarbin
